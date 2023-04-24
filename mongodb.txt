@@ -1,2 +1,0 @@
-mongodb+srv://root:Rumineam26#@cluster0.jjbzn7d.mongodb.net/?retryWrites=true&w=majority
-
